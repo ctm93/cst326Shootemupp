@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 26d1e7a0d89d8b445876ae704609e3fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - alien1: {fileID: 8300000, guid: faeeb7171cab2fa41aafba979bc8688d, type: 3}
+  - alien2: {fileID: 8300000, guid: ed18aaa2e8d8e724f89425b3a1c785d4, type: 3}
+  - Enemydies: {fileID: 8300000, guid: ed69a1c3c05402045ba53d6540b3ae20, type: 3}
+  - Enemyfire: {fileID: 8300000, guid: a00a22d3bb5c22142a014c1b376794ab, type: 3}
+  - explosion: {fileID: 8300000, guid: d104cc8fc2af68041b1dbc84afbb1336, type: 3}
+  - mybullet: {fileID: 8300000, guid: 2467a292e5e6bbc4da592aa2260c1be8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
